@@ -1,0 +1,2 @@
+debian/bin/Radiumd usr/bin
+src/Radiumd usr/lib/Radium
